@@ -1,0 +1,1 @@
+import{_ as n,c as a,o as t,ah as p}from"./chunks/framework.B8DMMYNI.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"git/note4.md","filePath":"git/note4.md"}'),l={name:"git/note4.md"};function e(i,s,g,c,o,d){return t(),a("div",null,[...s[0]||(s[0]=[p("",1)])])}const u=n(l,[["render",e]]);export{h as __pageData,u as default};
